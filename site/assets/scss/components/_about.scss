@@ -25,6 +25,20 @@
       object-fit: cover;
     }
   }
+    &-company-about {
+      background: $primary-color;
+      padding: 70px 38px;
+  
+      @include desktop {
+        width: 100%;
+        margin-bottom: 20px;
+      }
+  
+      img {
+        width: 100%;
+        object-fit: cover;
+      }
+    }
   &-description{
     width: 60%;
     padding-left: 50px;
@@ -33,9 +47,20 @@
       padding: 0 38px;
     }
     p{
-      font-size: 25px;
       font-weight: 300;
       margin-bottom: 0;
     }
   }
+    &-description-about { 
+      padding: 20px 10px;
+      @include desktop {
+        width: 100%;
+        padding: 0 38px;
+      }
+  
+      p {
+        font-weight: 300;
+        margin-bottom: 0;
+      }
+    }
 }
