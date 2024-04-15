@@ -14,7 +14,7 @@ description: >
   <br/><br/> Le hackathon #Innov4Democracy est inclusif et permet de cartographier les meilleures solutions numériques portées par de jeunes africains. Chaque citoyen d'un pays africain pourrait voter pour les un des dix solutions numériques présélectionnés sur la base de l'originalité, de la réplicabilité ou de L’impact du projet dans l’avancement de la démocratie et de la bonne gouvernance.
 
   <br/><br/> Le processus de sélection est composée de plusieurs étapes qui ont chacune leur importance pour récompenser les meilleures innovations  lors d’un événement majeur continental qui se tiendra en 2024 dans une capitale africaine. <br/><br/>
-image: /images/innov4democracy-3.jpg
+image: /images/innov4democracy-4.jpg
 expertise_title: "Coin Innovateur pour la démocratie "
 ---
 Les 10 meilleurs projets seront présélectionnés pour le grand concours. Par la suite, les cinq meilleures équipes recevront une bourse de **5000€** chacune et bénéficieront d’un accompagnement technique de AfricTivistes.
