@@ -1,6 +1,6 @@
 ---
 title: "AfricTivistes offre 25 000€ pour les Innovateurs d’Afrique!"
-date: 2023-12-22T16:34:10.399Z
+date: 2023-11-05T16:34:10.399Z
 image: /images/25.jpg
 category:
   - Actualités

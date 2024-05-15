@@ -1,6 +1,6 @@
 ---
 title: "Comment participer à la compétition d’innovation technologique au service de la démocratie !"
-date: 2023-12-22T16:19:41.326Z
+date: 2023-11-16T16:19:41.326Z
 image: /images/26.jpg
 category:
   - Actualités
