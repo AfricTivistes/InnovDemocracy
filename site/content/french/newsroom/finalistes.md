@@ -35,7 +35,7 @@ L’équipe d’organisation du hackathon a mis en place un processus rigoureux 
 * La qualité de la documentation remise au comité de présélection;
 * L’impact du projet dans l’avancement de la démocratie et de la bonne gouvernance…
   
-En organisant ce concours dans le cadre du[Charter Project Africa](https://charter.africa/),AfricTivistes renouvelle son engagement à favoriser l’utilisation des technologies numériques comme des outils appropriés pour surmonter les obstacles auxquels les citoyens font face dans leur quête d’expression démocratique en Afrique.  
+En organisant ce concours dans le cadre du [Charter Project Africa](https://charter.africa/),AfricTivistes renouvelle son engagement à favoriser l’utilisation des technologies numériques comme des outils appropriés pour surmonter les obstacles auxquels les citoyens font face dans leur quête d’expression démocratique en Afrique.  
 
 Pour rappel, AfricTivistes a reçu des projets et idées de projet venant du Bénin, de Madagascar, du Togo, du Sénégal, de la République démocratique du Congo, du Tchad, du Burkina Faso et de la République de Guinée lors de l’appel à propositions.
 
