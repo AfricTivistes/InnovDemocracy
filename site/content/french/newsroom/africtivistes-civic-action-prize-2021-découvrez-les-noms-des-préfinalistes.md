@@ -1,9 +1,9 @@
 ---
-title: "Hackathon #Innov4Democracy: découvrez les 10 innovations préselectionnées  "
+title: "Découvrez les 10 innovations préselectionnées"
 date: 2023-12-22T16:09:51.792Z
 image: /images/innov4democracy.jpeg
 category:
-  - Communiqué
+  - Actualités
 feature_image: /images/innov4democracy.jpeg
 author: Abdou Aziz Cissé
 ---
