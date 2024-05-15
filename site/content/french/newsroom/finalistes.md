@@ -3,7 +3,7 @@ title: "Les 5 finalistes dévoilés !"
 date: 2024-05-15T11:04:10.399Z
 image: /images/finalistes-Hackathon.webp
 category:
-  - Communiqué
+  - Actualités
 feature_image: /images/finalistes-Hackathon.webp
 author: Mamadou Mb. Dione
 ---

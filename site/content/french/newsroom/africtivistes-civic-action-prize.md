@@ -1,10 +1,9 @@
 ---
-title: "AfricTivistes Présente #Innov4Democracy: comment participer à la
-  complétion d’innovation technologique au service de la démocratie !"
+title: "Comment participer à la compétition d’innovation technologique au service de la démocratie !"
 date: 2023-12-22T16:19:41.326Z
 image: /images/26.jpg
 category:
-  - Communiqué
+  - Actualités
 feature_image: /images/26.jpg
 author: Abdou Aziz Cissé
 ---

@@ -1,10 +1,9 @@
 ---
-title: "Révolution Numérique pour la Démocratie : AfricTivistes offre 25 000€
-  pour les Innovateurs d’Afrique!"
+title: "AfricTivistes offre 25 000€ pour les Innovateurs d’Afrique!"
 date: 2023-12-22T16:34:10.399Z
 image: /images/25.jpg
 category:
-  - Communiqué
+  - Actualités
 feature_image: /images/25.jpg
 author: Abdou Aziz Cisse
 ---
