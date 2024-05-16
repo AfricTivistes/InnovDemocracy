@@ -1,0 +1,69 @@
+enable  : true
+title   : "Les Innovateurs au service de la démocratie ! "
+subtitle: "Ci-dessous la liste des finalistes de #Innov4Democracy"
+finaliste_item :
+  - thumb : "/images/citoyensn.png"
+    name  : "Citoyen SN"
+    id    : c1
+    company_position: "ChatSN 🇸🇳"
+    url: vote/chat-sn
+    quote : > 
+            CitoyenSN est un guide juridique intelligent au Sénégal qui veut simplifier
+            aux citoyens l’obtention de réponses instantanées sur leurs droits grâce à un
+            chatbot, alimenté par l’Intelligence Artificielle....
+    facebook: ""
+    linkedIn: https://www.linkedin.com/in/cheikh-ahmed-tidiane-dieng/
+    twitter: ""
+
+  - thumb : "/images/logo1.png"
+    name  : "Clic Citoyen"
+    id    : c2
+    company_position: "Clic Citoyen 🇧🇯"
+    url: vote/clic-citoyen
+    quote : > 
+            Le Clic citoyen est une initiative qui vise à mettre en place une plateforme
+            numérique cataloguant les institutions quasi judiciaires au Bénin Les citoyens
+            victimes de violation de leurs droits ou témoins des actes de corruption ou
+            d’autres actes anti-sociaux pourront saisir, en un clic, lesdites institutions
+            via cet interface...
+    facebook: https://www.facebook.com/profile.php?id=100068192543313
+    linkedIn: https://www.linkedin.com/company/clic-citoyen/
+    twitter: https://twitter.com/clic_citoyen
+
+
+  - thumb : "/images/logo-isika.png"
+    name  : "Isika"
+    id    : c4
+    company_position: "Isika 🇲🇬"
+    url: vote/isika
+    quote : > 
+            Isika est une plateforme numérique de participation citoyenne au Madagascar
+            qui favorise l’engagement et la participation des citoyens et des citoyennes
+            en les mettant au cœur du processus de prise de décisions au niveau local...
+    facebook: https://www.facebook.com/aeger0
+    site: https://imatterinitiative.org/
+    linkedIn: https://www.linkedin.com/company/isika-mg/
+    twitter: ""
+
+  - thumb : "/images/nirou_logo.png"
+    name  : "Nidoroualmewaafe"
+    id    : c6
+    company_position: "Nidoroualmewaafe 🇹🇩"
+    url: vote/nidoroualmewaafe
+    quote : > 
+            Nidoroualmewaafe est une initiative qui a pour objectif de mettre le pouvoir
+            des données entre les mains des citoyens. Ainsi, via une plateforme
+            interactive, ce projet veut permettre aux plus hautes autorités de répondre
+            aux besoins exprimés par les citoyens afin de trouver des solutions aux
+            besoins sociaux primaires des populations du Tchad....
+  
+  - thumb : "/images/logo-ratoma.jpg"
+    name  : RatomaTech"
+    id    : c8
+    company_position: "RatomaTech 🇬🇳"
+    url: vote/ratoma-tech
+    quote : > 
+            RatomaTech est une plateforme numérique qui a pour ambition de faciliter  aux
+            citoyens de la commune de Ratoma (République de Guinée), l’accès aux
+            informations publiques liées à la gestion de leur commune à travers la
+            centralisation des données pour favoriser la transparence...
