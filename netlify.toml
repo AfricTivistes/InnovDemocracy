@@ -3,8 +3,8 @@
   NODE_VERSION = "18"
 
 [build]
-  command = "yarn build"
-  publish = "dist"
+  command = "hugo --gc --minify -s site"
+  publish = "site/public"
   functions = "./site/functions"
 
 [context.deploy-preview]
