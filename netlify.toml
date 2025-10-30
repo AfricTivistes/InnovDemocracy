@@ -3,6 +3,7 @@
   NODE_VERSION = "20"
   HUGO_VERSION = "0.124.1"
   HUGO_EXTENDED = "true"
+  YARN_REGISTRY = "https://registry.npmjs.org"
 
 [build]
   command = "hugo --gc --minify -s site"
