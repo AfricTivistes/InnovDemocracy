@@ -1,6 +1,8 @@
 [build.environment]
   YARN_VERSION = "1.22.22"
   NODE_VERSION = "18"
+  HUGO_VERSION = "0.124.1"
+  HUGO_EXTENDED = "true"
 
 [build]
   command = "hugo --gc --minify -s site"
