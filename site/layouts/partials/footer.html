@@ -15,14 +15,6 @@
             </a>
           </div>
         </div>
-        <div class="row" style="margin-top: 20px;">
-          <div class="col-lg-12 text-center">
-            <a href="#">
-              <img src="{{ "images/NGOsource-ED.png" | absURL }}" width="150px" alt="Détermination d'Equivalence">
-            </a>
-            <p style="color: #fff; margin-top: 10px;">Détermination d'Equivalence</p>
-          </div>
-        </div>
       </div>
       {{ with .Site.Params.footer.contactInfo }}
       <div class="col-lg-3 col-md-6">
@@ -81,6 +73,36 @@
         </a>
       </div>
     </div>
+  <!-- NGOsource badge pinned at the very bottom of the footer -->
+  <div class="row" style="margin-top: 28px; margin-bottom: 6px;">
+    <div class="col-12 text-center">
+      <a href="#" aria-label="NGOsource - Détermination d'Equivalence" style="text-decoration:none;">
+        <div style="display:inline-flex;align-items:center;gap:20px;padding:22px 28px;border-radius:16px;background:linear-gradient(180deg, rgba(255,255,255,0.12) 0%, rgba(255,255,255,0.07) 100%);border:1px solid rgba(255,255,255,0.18);box-shadow:0 10px 30px rgba(0,0,0,0.22);backdrop-filter:blur(8px) saturate(125%);transform:translateZ(0);transition:transform .18s ease, box-shadow .18s ease;">
+          <img src="{{ "images/NGOsource-ED.png" | absURL }}" alt="NGOsource - Détermination d'Equivalence" style="height:60px;width:auto;border-radius:10px;background:#fff;padding:8px;box-shadow:0 3px 10px rgba(0,0,0,0.18);" />
+          <div style="text-align:left;">
+            <div style="color:#ffffff;font-weight:700;letter-spacing:.25px;font-size:18px;">Détermination d'Equivalence</div>
+            <div style="color:#ffffff;opacity:.9;font-size:14px;">NGOsource • conformité et équivalence reconnues</div>
+          </div>
+        </div>
+      </a>
+      <script>
+        (function(){
+          var el = document.currentScript && document.currentScript.previousElementSibling;
+          if(!el) return;
+          var card = el.querySelector('div');
+          if(!card) return;
+          card.addEventListener('mouseenter', function(){
+            card.style.transform = 'translateY(-2px)';
+            card.style.boxShadow = '0 14px 36px rgba(0,0,0,0.30)';
+          });
+          card.addEventListener('mouseleave', function(){
+            card.style.transform = 'translateY(0)';
+            card.style.boxShadow = '0 10px 30px rgba(0,0,0,0.22)';
+          });
+        })();
+      </script>
+    </div>
+  </div>
   </div>
 </footer>
 
